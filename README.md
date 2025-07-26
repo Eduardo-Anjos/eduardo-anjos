@@ -2,10 +2,6 @@
 
 ### Um desenvolvedor frontend apaixonado, diretamente da Bahia 🌴
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eduardo-anjos&label=Profile%20views&color=0e75b6&style=flat" alt="Visualizações" />
-</p>
-
 ---
 
 ## 🚀 Sobre mim
