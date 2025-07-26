@@ -1,4 +1,4 @@
-# 👋 Oii, eu sou Eduardo Cauã Anjos Santos
+# Eduardo Anjos
 
 ### Um desenvolvedor frontend apaixonado, diretamente da Bahia 🌴
 
