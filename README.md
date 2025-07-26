@@ -1,4 +1,3 @@
-<!-- Fundo gradiente e centralização -->
 <div align="center" style="background: linear-gradient(135deg, #6C63FF 0%, #3A1C71 100%); padding: 40px 20px; border-radius: 15px; color: white; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
   <h1>👋 Oii, eu sou <span style="color:#FFD700;">Eduardo Cauã Anjos Santos</span></h1>
@@ -6,12 +5,6 @@
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=eduardo-anjos&label=Profile%20views&color=FFD700&style=flat" alt="Visualizações" />
-  </p>
-
-  <p>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=eduardo-anjos&theme=dark" alt="Troféus" />
-    </a>
   </p>
 
   <hr style="width: 60%; border: 1px solid #DCDCDC; opacity: 0.3;" />
@@ -35,13 +28,13 @@
 
     <p>
       <a href="https://instagram.com/eduardocauaa" target="_blank" style="margin-right: 15px;">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" />
       </a>
       <a href="https://linkedin.com/in/eduardo-anjos" target="_blank" style="margin-right: 15px;">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" style="border-radius: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" />
       </a>
       <a href="https://twitter.com/eduardo-anjos" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="40" height="40" style="border-radius: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="40" height="40" />
       </a>
     </p>
 
